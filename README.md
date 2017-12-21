@@ -14,9 +14,9 @@ Installing is an easy task. Just follow these simple steps:
 
 ## Live:
 
-	http://nucse.is-best.net/index.php
+  Link: http://nucse.is-best.net
   
-  http://nucse.is-best.net/admin
+  Admin url: http://nucse.is-best.net/admin
   
   Email: admin@nucse.net
   
