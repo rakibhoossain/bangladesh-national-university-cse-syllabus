@@ -1,0 +1,59 @@
+@media only screen and (max-width: 480px) {
+/* your CSS here */
+}
+@media only screen and (max-width: 480px) {
+body {
+font-size: 20px;
+}
+.syllabus-container {
+  width: 99%;
+}
+td {
+    padding: 5px;
+}
+th {
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 600px) {
+.sidebar {
+float: none;
+width: 100%;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.large-image {
+display: none;
+}
+}
+
+.username:after {
+content:"Insert your user name";
+}
+
+@media screen and (max-width: 1024px) {
+.username:before {
+content:"User name";
+}
+}
+
+@media screen and (man-width: 480px) {
+.username:before {
+content:"";
+}
+}

@@ -1,0 +1,329 @@
+CSE-111
+
+Introduction to Computer System
+
+3
+
+CSE-112
+
+Programming Language
+
+3
+
+CSE-113
+
+Programming Language Practical
+
+1.5
+
+CSE-114
+
+Physics (Electricity and Magnetism)
+
+3
+
+CSE-115
+
+Differential Calculus Ordinate Geometry
+
+3
+
+CSE-116
+
+English
+
+3
+
+CSE-121
+
+Data Structure
+
+3
+
+CSE-122
+
+Data Structure Practical
+
+1.5
+
+CSE-123
+
+Introduction to Electrical Engineering
+
+3
+
+CSE-124
+
+Introduction to Electrical Engineering Practical
+
+1.5
+
+CSE-125
+
+Integral Calculus and Differential Equation
+
+3
+
+CSE-126
+
+Statistics and Probability
+
+3
+
+CSE-127
+
+Discrete Mathematics
+
+3
+
+CSE-211
+
+Object Oriented Programming
+
+3
+
+CSE-212
+
+OO Programming Language Practical
+
+1.5
+
+CSE-213
+
+Operating System
+
+3
+
+CSE-214
+
+Digital Logic Design
+
+3
+
+CSE-215
+
+Digital Logic Design Practical
+
+1.5
+
+CSE-216
+
+Mathematics For CSE
+
+3
+
+CSE-217
+
+Electronic Devices and Circuits
+
+3
+
+CSE-218
+
+Electronic Devices and Circuits Practical
+
+1.5
+
+CSE-219
+
+Basic Accounting
+
+3
+
+CSE-221
+
+Algorithm Design
+
+3
+
+CSE-222
+
+Algorithm Design Practical
+
+1.5
+
+CSE-223
+
+Databese Management System
+
+3
+
+CSE-224
+
+Databese Management System Practical
+
+1.5
+
+CSE-225
+
+Computer Organization and Architecture
+
+3
+
+CSE-226
+
+Data Communications
+
+3
+
+CSE-227
+
+Economics
+
+3
+
+CSE-311
+
+Theory of Computation
+
+3
+
+CSE-312
+
+Microprocessor and Assembly Language
+
+3
+
+CSE-313
+
+Assembly Language Practical
+
+1.5
+
+CSE-314
+
+Engineering Mathematics
+
+3
+
+CSE-315
+
+Sociology
+
+3
+
+CSE-316
+
+Technical Writing & Communications
+
+3
+
+CSE-321
+
+Software Engineering
+
+3
+
+CSE-322
+
+Software Engineering Practical
+
+1.5
+
+CSE-323
+
+Numerical Analysis
+
+3
+
+CSE-324
+
+Computer Graphics& Multimedia
+
+3
+
+CSE-325
+
+Computer Graphics and Practical
+
+1.5
+
+CSE-326
+
+Compiler Design
+
+3
+
+CSE-327
+
+Compiler Design Practical
+
+1.5
+
+CSE-328
+
+System Analysis and Design
+
+3
+
+CSE-411
+
+Computer Networking
+
+3
+
+CSE-412
+
+Computer Networking Practical
+
+1.5
+
+CSE-413
+
+Artificial Intelligence and Neural Network
+
+3
+
+CSE-414
+
+Parallel and Distributed Processing
+
+3
+
+CSE-415
+
+Peripheral and Interfacing
+
+3
+
+CSE-416
+
+Peripheral and Interfacing Practical
+
+1
+
+CSE-417
+
+Digital Signal Processing
+
+3
+
+CSE-421
+
+Web Engineering
+
+3
+
+CSE-422
+
+Web Engineering Practical
+
+1.5
+
+CSE-423
+
+Computer and Network Security
+
+3
+
+CSE-42X
+
+Elective Course
+
+3
+
+CSE-499
+
+Project
+
+6

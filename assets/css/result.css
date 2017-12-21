@@ -1,0 +1,23 @@
+body {
+    background:  transparent;
+}
+
+div#header {
+    display:  none;
+}
+div#footer {
+    display:  none;
+}
+div#contentarea {
+    margin:  0;
+    padding:  0;
+    background: aquamarine;
+}
+div#content-box {
+    margin:  0;
+    padding:  0;
+    background: red;
+}
+div#contentarea {
+    width: 100%;
+}
