@@ -377,6 +377,15 @@ footer {
 footer a{
     color: #FFFFFE;
 }
+.social a {
+    margin-left: 5px;
+}
+
 footer a:hover{
-    color: #EFFFFE;
+    color: #2a2a3a;
+}
+
+.in-flex {
+    display:  inline-flex;
+    margin-right: 3px;
 }
