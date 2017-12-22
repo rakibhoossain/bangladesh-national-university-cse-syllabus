@@ -31,6 +31,7 @@ $semes = array(
     <meta property="fb:app_id" content="1389892087910588">
 	
 	<link href="assets/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/menu.css">
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
