@@ -75,7 +75,7 @@ if (isset($_POST['select'])) {
 	$("td.dwn").css("cursor", "pointer");
 	$("td.dwn").click(function(){
 		var data = $(this).attr('data');
-		var href = "http://www.sbpgc.edu.bd/download/sylebus/"+data+"_semester.pdf";
+		var href = "http://nucse.is-best.net/syllabus/"+data+"_semester.pdf";
 		window.location.href = href;
 	});
 </script>
