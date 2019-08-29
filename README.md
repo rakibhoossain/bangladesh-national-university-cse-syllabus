@@ -14,9 +14,9 @@ Installing is an easy task. Just follow these simple steps:
 
 ## Live:
 
-  Link: http://nucse.is-best.net
+  Link: http://nucse.agamilive.com
   
-  Admin url: http://nucse.is-best.net/admin
+  Admin url: http://nucse.agamilive.com/admin
   
   Email: admin@nucse.net
   
